@@ -159,16 +159,20 @@
 ## 📈 GitHub Analytics & Performance
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DropPlan-at13&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DropPlan-at13&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DropPlan-at13&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DropPlan-at13&layout=compact&langs_count=8&theme=radical&bg_color=0d1117&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DropPlan-at13&theme=radical" alt="GitHub Streak" />
-</div>
+<br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DropPlan-at13&theme=radical" alt="GitHub Contribution Graph"/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=DropPlan-at13&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DropPlan-at13&theme=radical" alt="GitHub Contribution Graph"/>
 </div>
 
 ## 🏆 Achievement Badges
