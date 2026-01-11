@@ -168,7 +168,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DropPlan-at13&theme=react-dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DropPlan-at13&theme=radical" alt="GitHub Contribution Graph"/>
 </div>
 
 ## 🏆 Achievement Badges
@@ -288,6 +288,16 @@ convergence
   
   <br>
   
+### 🌐 Personal Portfolio
+  
+[![Personal Website](https://img.shields.io/badge/🌐_Visit_My_Portfolio-kishorepr.social-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.kishorepr.social/)
+
+<div style="margin: 20px 0;">
+  <p><em>✨ Explore my complete professional journey, projects, and innovations ✨</em></p>
+</div>
+
+---
+
 ### 💼 Professional Networking
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishore-p-r)
@@ -306,6 +316,7 @@ convergence
 
 **📞 Direct Contact**: +91 7305870346  
 **📧 Professional Email**: kishorepr776@gmail.com  
+**🌐 Portfolio**: [kishorepr.social](https://www.kishorepr.social/)  
 **💼 Open for**: Collaborations, Consultations & Innovative Projects
 
 </div>
