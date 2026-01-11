@@ -166,13 +166,13 @@
 <br>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=DropPlan-at13&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img width="90%" src="https://streak-stats.demolab.com/?user=DropPlan-at13&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DropPlan-at13&theme=radical" alt="GitHub Contribution Graph"/>
+  <img width="90%" src="https://github-contributor-stats.vercel.app/api?username=DropPlan-at13&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="GitHub Contribution Stats"/>
 </div>
 
 ## 🏆 Achievement Badges
