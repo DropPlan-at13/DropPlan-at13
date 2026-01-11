@@ -82,6 +82,7 @@
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE" height="40"/>
   <img src="https://img.shields.io/badge/ABB_RobotStudio-FF6600?style=for-the-badge&logo=abb&logoColor=white" alt="ABB RobotStudio" height="40"/>
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" height="40"/>
+  <img src="https://img.shields.io/badge/Antigravity-8A2BE2?style=for-the-badge&logo=atom&logoColor=white" alt="Antigravity" height="40"/>
 </p>
 
 ### 🐧 Operating Systems & Platforms
@@ -89,6 +90,8 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu 22.04" height="40"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="40"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" height="40"/>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" height="40"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" height="40"/>
 </p>
 
 ### ⚡ Hardware & Electronics Platforms
@@ -96,6 +99,7 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" height="40"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" height="40"/>
   <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Jetson Nano" height="40"/>
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" height="40"/>
   <img src="https://img.shields.io/badge/NI%20DAQ-FFDB00?style=for-the-badge&logo=ni&logoColor=black" alt="NI DAQ" height="40"/>
   <img src="https://img.shields.io/badge/Blynk-23C197?style=for-the-badge&logo=blynk&logoColor=white" alt="Blynk IoT" height="40"/>
 </p>
@@ -125,17 +129,30 @@
 <td align="center" width="50%">
 
 **🎯 LeetCode Arena**
-  
-<a href="https://leetcode.com/u/KishorePR13" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/KishorePR13?theme=unicorn&font=Karma&ext=contest" alt="LeetCode Stats"/>
-</a>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/KishorePR13)
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/>
+  <br><br>
+  <strong style="font-size: 18px;">@KishorePR13</strong>
+  <br><br>
+  🏅 <strong>Active Problem Solver</strong><br>
+  <em>Daily Practice & Growth</em>
+  <br><br>
+  🚀 <strong>Continuous Learner</strong><br>
+  <em>Algorithm Mastery</em>
+  <br><br>
+  ⚡ <strong>Code Architect</strong><br>
+  <em>Building Excellence</em>
+</div>
 
 </td>
 <td align="center" width="50%">
 
 **🌟 Codedx Community**
+
+[![Codedx](https://img.shields.io/badge/Codedx-FF6B6B?style=for-the-badge&logo=code&logoColor=white)](https://www.codedx.io/@Kishore13)
 
 <div style="text-align: center; margin: 20px 0;">
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/>
@@ -151,8 +168,6 @@
   ⚡ <strong>Code Architect</strong><br>
   <em>Building Excellence</em>
 </div>
-
-[![Codedx](https://img.shields.io/badge/Codedx-FF6B6B?style=for-the-badge&logo=code&logoColor=white)](https://www.codedx.io/@Kishore13)
 
 </td>
 </tr>
@@ -202,11 +217,11 @@
 <td align="center" width="33%">
 
 ### 🤖 IoT & Smart Systems
-*End-to-end IoT solutions with Arduino, Pi, and Jetson Nano*
+*End-to-end IoT solutions with Arduino, ESP32, Pi, and Jetson Nano*
 
 ![Status](https://img.shields.io/badge/Status-Active_Development-green?style=for-the-badge)
 
-**Tech**: Arduino • Raspberry Pi • Jetson Nano • Python • Blynk IoT • n8n
+**Tech**: Arduino • ESP32 • Raspberry Pi • Jetson Nano • Python • Blynk IoT • n8n
 
 </td>
 <td align="center" width="33%">
