@@ -124,18 +124,16 @@
   
 </div>
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
+<div align="center">
 
-**🎯 LeetCode Arena**
+**🌟 Codedex Community**
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/KishorePR13)
+[![Codedex](https://img.shields.io/badge/Codedex.io-6C63FF?style=for-the-badge&logo=code&logoColor=white)](https://www.codedex.io/@Kishore13)
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/>
   <br><br>
-  <strong style="font-size: 18px;">@KishorePR13</strong>
+  <strong style="font-size: 20px;">@Kishore13</strong>
   <br><br>
   🏅 <strong>Active Problem Solver</strong><br>
   <em>Daily Practice & Growth</em>
@@ -145,33 +143,12 @@
   <br><br>
   ⚡ <strong>Code Architect</strong><br>
   <em>Building Excellence</em>
+  <br><br>
+  💻 <strong>Full-Stack Developer</strong><br>
+  <em>Frontend • Backend • Database</em>
 </div>
 
-</td>
-<td align="center" width="50%">
-
-**🌟 Codedx Community**
-
-[![Codedx](https://img.shields.io/badge/Codedx-FF6B6B?style=for-the-badge&logo=code&logoColor=white)](https://www.codedx.io/@Kishore13)
-
-<div style="text-align: center; margin: 20px 0;">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/>
-  <br><br>
-  <strong style="font-size: 18px;">@Kishore13</strong>
-  <br><br>
-  🏅 <strong>Active Problem Solver</strong><br>
-  <em>Daily Practice & Growth</em>
-  <br><br>
-  🚀 <strong>Continuous Learner</strong><br>
-  <em>Algorithm Mastery</em>
-  <br><br>
-  ⚡ <strong>Code Architect</strong><br>
-  <em>Building Excellence</em>
 </div>
-
-</td>
-</tr>
-</table>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50">
@@ -319,8 +296,7 @@ convergence
 
 ### 🎯 Coding Platforms
   
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/KishorePR13)
-[![Codedx](https://img.shields.io/badge/Codedx-FF6B6B?style=for-the-badge&logo=code&logoColor=white)](https://www.codedx.io/@Kishore13)
+[![Codedex](https://img.shields.io/badge/Codedex.io-6C63FF?style=for-the-badge&logo=code&logoColor=white)](https://www.codedex.io/@Kishore13)
 
 ### 📱 Social Connect
   
