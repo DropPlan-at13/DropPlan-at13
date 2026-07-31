@@ -74,6 +74,37 @@
   <img src="https://img.shields.io/badge/Grok-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Grok" height="40"/>
 </p>
 
+### 🧠 Advanced AI, Robotics & Computer Vision Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" height="40"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" height="40"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" height="40"/>
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" height="40"/>
+  <img src="https://img.shields.io/badge/Open3D-4285F4?style=for-the-badge&logoColor=white" alt="Open3D" height="40"/>
+  <img src="https://img.shields.io/badge/Ultralytics_YOLO-111F68?style=for-the-badge&logoColor=white" alt="Ultralytics" height="40"/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black" alt="YOLO" height="40"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA CUDA" height="40"/>
+  <img src="https://img.shields.io/badge/NVIDIA_Isaac_Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Isaac Sim" height="40"/>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2" height="40"/>
+  <img src="https://img.shields.io/badge/Nav2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="Nav2" height="40"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" height="40"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logoColor=white" alt="NLP" height="40"/>
+  <img src="https://img.shields.io/badge/Qwen2.5-615CED?style=for-the-badge&logoColor=white" alt="Qwen2.5" height="40"/>
+  <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" height="40"/>
+  <img src="https://img.shields.io/badge/eSpeech_TTS-00A67E?style=for-the-badge&logoColor=white" alt="eSpeech" height="40"/>
+  <img src="https://img.shields.io/badge/HuggingFace_LeRobot-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face LeRobot" height="40"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="40"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge&logoColor=white" alt="LLM" height="40"/>
+  <img src="https://img.shields.io/badge/VLM-412991?style=for-the-badge&logoColor=white" alt="VLM" height="40"/>
+  <img src="https://img.shields.io/badge/VLA-412991?style=for-the-badge&logoColor=white" alt="VLA" height="40"/>
+</p>
+
 ### 🔧 Development Environment & IDEs
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" height="40"/>
@@ -212,7 +243,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Research_Phase-blue?style=for-the-badge)
 
-**Tech**: ROS2 • Ubuntu 22.04 • ABB RobotStudio • C++ • Python
+**Tech**: ROS2 • Nav2 • NVIDIA Isaac Sim • Ubuntu 22.04 • ABB RobotStudio • C++ • Python
 
 </td>
 <td align="center" width="33%">
@@ -245,7 +276,7 @@
 <td align="center" width="25%">
 
 **🚀 AI Integration**  
-Advanced LLM workflows,  
+Advanced LLM/VLM/VLA workflows,  
 automation with n8n,  
 and intelligent systems
 
@@ -253,7 +284,7 @@ and intelligent systems
 <td align="center" width="25%">
 
 **🤖 Robotics Research**  
-ROS2 development,  
+ROS2, Nav2, NVIDIA Isaac Sim,  
 autonomous systems,  
 and industrial automation
 
@@ -269,8 +300,8 @@ and edge computing
 <td align="center" width="25%">
 
 **🔬 R&D Projects**  
-Innovation in  
-electronics & software  
+Computer vision, speech AI,  
+and electronics & software  
 convergence
 
 </td>
@@ -344,5 +375,9 @@ convergence
 **🌟 Thank you for visiting! Let's build the future together! 🚀**
   
 *Ready to collaborate on your next innovative project*
+
+<br>
+
+### *"The present is theirs; the future, for which I really worked, is mine."* – Nikola Tesla
 
 </div>
