@@ -157,14 +157,15 @@
 
 <div align="center">
 
-**🌟 Codedex Community**
+**🌟 Competitive Programming & Learning Communities**
 
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kishorepr776)
 [![Codedex](https://img.shields.io/badge/Codedex.io-6C63FF?style=for-the-badge&logo=code&logoColor=white)](https://www.codedex.io/@Kishore13)
 
 <div style="text-align: center; margin: 20px 0;">
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/>
   <br><br>
-  <strong style="font-size: 20px;">@Kishore13</strong>
+  <strong style="font-size: 20px;">@kishorepr776 • @Kishore13</strong>
   <br><br>
   🏅 <strong>Active Problem Solver</strong><br>
   <em>Daily Practice & Growth</em>
@@ -190,20 +191,20 @@
 ## 📈 GitHub Analytics & Performance
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DropPlan-at13&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DropPlan-at13&layout=compact&langs_count=8&theme=radical&bg_color=0d1117&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DropPlan-at13&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true&cache_seconds=86400&v=2" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DropPlan-at13&layout=compact&langs_count=8&theme=radical&bg_color=0d1117&hide_border=true&cache_seconds=86400&v=2" alt="Top Languages"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats-eight.vercel.app?user=DropPlan-at13&theme=radical&hide_border=true&background=0d1117&ring=fb4362&fire=fb4362&currStreakLabel=fb4362" alt="GitHub Streak Stats" />
+  <img width="90%" src="https://streak-stats.demolab.com?user=DropPlan-at13&theme=radical&hide_border=true&background=0d1117&ring=fb4362&fire=fb4362&currStreakLabel=fb4362&v=2" alt="GitHub Streak Stats" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=DropPlan-at13&theme=react-dark&bg_color=0d1117&color=fb4362&line=fb4362&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=DropPlan-at13&theme=react-dark&bg_color=0d1117&color=fb4362&line=fb4362&point=ffffff&area=true&hide_border=true&v=2" alt="GitHub Activity Graph"/>
 </div>
 
 ## 🏆 Achievement Badges
@@ -341,6 +342,7 @@ convergence
 
 ### 🎯 Coding Platforms
   
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kishorepr776)
 [![Codedex](https://img.shields.io/badge/Codedex.io-6C63FF?style=for-the-badge&logo=code&logoColor=white)](https://www.codedex.io/@Kishore13)
 
 ### 📱 Social Connect
@@ -352,6 +354,7 @@ convergence
 **📞 Direct Contact**: +91 7305870346  
 **📧 Professional Email**: kishorepr776@gmail.com  
 **🌐 Portfolio**: [kishorepr.social](https://www.kishorepr.social/)  
+**💻 HackerRank**: [@kishorepr776](https://www.hackerrank.com/profile/kishorepr776)  
 **💼 Open for**: Collaborations, Consultations & Innovative Projects
 
 </div>
