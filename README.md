@@ -204,7 +204,7 @@
 <br>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=DropPlan-at13&theme=react-dark&bg_color=0d1117&color=fb4362&line=fb4362&point=ffffff&area=true&hide_border=true&v=3" alt="GitHub Activity Graph"/>
+  <img width="90%" src="https://raw.githubusercontent.com/DropPlan-at13/DropPlan-at13/output/snake.svg" alt="Contribution Snake"/>
 </div>
 
 ## 🏆 Achievement Badges
