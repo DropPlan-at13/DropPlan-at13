@@ -12,7 +12,7 @@
 
 <div align="center">
   
-**🔥 Electronics & Software Engineer | IoT Architect | AI Enthusiast 🥷**
+**🔥 Robotics and Automation Engineer | Computer Vision Engineer | AI Enthusiast 🥷**
   
 *Bridging Hardware & Software • Crafting Intelligent Systems • Engineering Tomorrow*
 
@@ -191,20 +191,20 @@
 ## 📈 GitHub Analytics & Performance
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DropPlan-at13&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true&cache_seconds=86400&v=2" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DropPlan-at13&layout=compact&langs_count=8&theme=radical&bg_color=0d1117&hide_border=true&cache_seconds=86400&v=2" alt="Top Languages"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=DropPlan-at13&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true&cache_seconds=86400&v=3" alt="GitHub Stats"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DropPlan-at13&layout=compact&langs_count=8&theme=radical&bg_color=0d1117&hide_border=true&cache_seconds=86400&v=3" alt="Top Languages"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img width="90%" src="https://streak-stats.demolab.com?user=DropPlan-at13&theme=radical&hide_border=true&background=0d1117&ring=fb4362&fire=fb4362&currStreakLabel=fb4362&v=2" alt="GitHub Streak Stats" />
+  <img width="90%" src="https://streak-stats.demolab.com?user=DropPlan-at13&theme=radical&hide_border=true&background=0d1117&ring=fb4362&fire=fb4362&currStreakLabel=fb4362" alt="GitHub Streak Stats" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=DropPlan-at13&theme=react-dark&bg_color=0d1117&color=fb4362&line=fb4362&point=ffffff&area=true&hide_border=true&v=2" alt="GitHub Activity Graph"/>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=DropPlan-at13&theme=react-dark&bg_color=0d1117&color=fb4362&line=fb4362&point=ffffff&area=true&hide_border=true&v=3" alt="GitHub Activity Graph"/>
 </div>
 
 ## 🏆 Achievement Badges
